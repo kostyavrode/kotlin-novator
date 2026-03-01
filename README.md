@@ -21,6 +21,7 @@ cmake --build .
 Запускайте программу из корня проекта kotlin-novator, чтобы файл с координатами искался в текущей папке:
 
 cd ..\kotlin-novator
+
 build\nuke.exe coords.txt 10
 
 Параметры:
