@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"E:/kotlin-novator/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
